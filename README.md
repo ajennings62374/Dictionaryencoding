@@ -1,0 +1,1 @@
+# Dictionaryencoding
